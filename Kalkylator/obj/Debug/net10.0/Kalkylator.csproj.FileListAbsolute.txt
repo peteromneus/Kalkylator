@@ -1,0 +1,11 @@
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\obj\Debug\net10.0\Kalkylator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\obj\Debug\net10.0\Kalkylator.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\obj\Debug\net10.0\Kalkylator.AssemblyInfo.cs
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\obj\Debug\net10.0\Kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\bin\Debug\net10.0\Kalkylator.deps.json
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\bin\Debug\net10.0\Kalkylator.dll
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\bin\Debug\net10.0\Kalkylator.pdb
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\obj\Debug\net10.0\Kalkylator.dll
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\obj\Debug\net10.0\refint\Kalkylator.dll
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\obj\Debug\net10.0\Kalkylator.pdb
+C:\Users\peter\source\repos\school\Kalkylator\Kalkylator\obj\Debug\net10.0\ref\Kalkylator.dll
